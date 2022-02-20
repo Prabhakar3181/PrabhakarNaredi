@@ -1,2 +1,2 @@
 # PrabhakarNaredi
-This is my project
+This is my e commerce project 
